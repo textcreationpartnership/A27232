@@ -1,0 +1,437 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Quakers challenge made to the Norfolk clergy, or, A relation of a conference between some clergy-men of the Church of England and some Quakers held (on the 8th of December 1698 in West-Dereham Church) in the county of Norfolk : together with those letters which passed between them in order thereunto : to which is added a certificate relateing to the challenge.</title>
+            <author>Beckham, Edward, 1637 or 8-1714.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1699</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 65 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27232</idno>
+            <idno type="STC">Wing B1654</idno>
+            <idno type="STC">ESTC R27616</idno>
+            <idno type="EEBO-CITATION">09981563</idno>
+            <idno type="OCLC">ocm 09981563</idno>
+            <idno type="VID">44447</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27232)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 44447)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1324:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Quakers challenge made to the Norfolk clergy, or, A relation of a conference between some clergy-men of the Church of England and some Quakers held (on the 8th of December 1698 in West-Dereham Church) in the county of Norfolk : together with those letters which passed between them in order thereunto : to which is added a certificate relateing to the challenge.</title>
+                  <author>Beckham, Edward, 1637 or 8-1714.</author>
+                  <author>Meriton, Henry, d. 1707.</author>
+                  <author>Topcliffe, Lancaster, 1646 or 7-1720.</author>
+               </titleStmt>
+               <extent>28 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by H. Hills for Edward Poole,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1699.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signed (p. 8): Edw. Beckham, Henry Meriton, Lancaster Topcliffe.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Zev Berger</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:44447:1"/>
+            <p>THE <hi>Quakers Challenge</hi> MADE TO THE Norfolk Clergy, OR A RELATION OF A CONFERENCE BETWEEN Some <hi>Clergy-Men</hi> of the <hi>Church</hi> of <hi>England,</hi> and ſome <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> held (on the 8th of <hi>December,</hi> 1698. in <hi>Weſt-Dere<g ref="char:EOLhyphen"/>ham-Church</hi> in the County of <hi>Norfolk;</hi> together with thoſe Letters which paſſed between them in order there<g ref="char:EOLhyphen"/>unto. To which is added a Certificate relateing to the Challenge.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>H. Hills,</hi> for <hi>Edward Poole,</hi> at the <hi>half Moon</hi> under the Royal <hi>Exchange, Cornhill.</hi> 1699.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:44447:2"/>
+            <pb n="1" facs="tcp:44447:2"/>
+            <head>A Relation of a <hi>Conference</hi> between ſome <hi>Clergy-Men</hi> of the <hi>Church</hi> of <hi>England,</hi> and ſome <hi>Quakers.</hi>
+            </head>
+            <p>SOME <hi>Quakers</hi> in the County of <hi>Norfolke,</hi> having by a Letter Challenged the <hi>Clergy</hi> of the <hi>Church</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land.</hi> Time and Place (leave from our Superiours firſt obtained) were at length fixed, and our Charge accor<g ref="char:EOLhyphen"/>ding to their deſire ſent to them, as appears by our firſt Let<g ref="char:EOLhyphen"/>ter; and on the Day appointed, <hi>viz. Dec.</hi> 8th 1698. the <hi>Quakers</hi> and <hi>We</hi> met in <hi>Weſt Dereham Church,</hi> in the Coun<g ref="char:EOLhyphen"/>ty aforeſaid, and took our Places before prepar'd. <hi>We</hi> firſt read the Service of the Day, near the beginning of which they coming in ſtaid it out, not to Joyn in the Duty, but ra<g ref="char:EOLhyphen"/>ther to affront it, carrying themſelves Irreverently all the Time. As ſoon as our Service was Ended, one of their Speak<g ref="char:EOLhyphen"/>ers began to Pray; whereupon all of them immediately pulled off their Hats, and carried themſelves as at a Religious Worſhip: The firſt thing we did, we read the Letter contain<g ref="char:EOLhyphen"/>ing their Challenge; preſently they ſtarted up and denied it to be a Challenge, and Avowed they would not go one ſtep further, unleſs we would own our ſelves to be the Agreſſors, and acquit them of that Charge; we Inſiſted that they were our Challengers, and Repeated to them their own Letter of Challenge; They told us they were provoked by certain Carriages of Ours to write that Letter.</p>
+            <p>But nothing could they make appear under our Hands, on<g ref="char:EOLhyphen"/>ly urged ſome Stories they had heard as a provocation; we told them further, that that was a plain owning of their Chal<g ref="char:EOLhyphen"/>lenge that they did it, only they were provoked to it: And after many long Harangues of ſeveral of their Speakers, they
+<pb n="2" facs="tcp:44447:3"/>
+deſired that all the Letters which had paſſed between us might be read to the Auditory; not as if they could get any advan<g ref="char:EOLhyphen"/>tage by reading them, but, as appeared to us afterwards, meer<g ref="char:EOLhyphen"/>ly to divert us an Hour or more from proſecuting our Charge. Then they Quarrelled with us about the Prelimi<g ref="char:EOLhyphen"/>naries of our Charge, that we did not ſend them the Charge ſome time before. We told them we had in our firſt Letter, and it was a Charge of Blaſphemy againſt God, <hi>&amp;c.</hi> but they Inſiſted to have a more particular account than a general Charge; that is, they Expected to have the Names of the Books, Page, and Line, from whence we Intended to prove our Charge againſt them, ſent them ſome time before. We anſwered, we had Law and Equity againſt ſuch an unreaſon<g ref="char:EOLhyphen"/>able demand: We told them the Law was their own, 'twas from <hi>Edw. Burroughs,</hi> who was a Son of <hi>Thunder,</hi> and ſpoke all from the Mouth of the Lord, whoſe Book uſed to be with them of as much Authority as the Bible; which allows us a liberty to appoint our own Time, Place, and Terms: They would by no Means have it read, ſpending two Hours or more in a mighty noiſe againſt it, which ſufficiently Expoſed them to all our People, who in great numbers, and very oft cry<g ref="char:EOLhyphen"/>ed out, Let it be read, Read <hi>Edw. Burroughs;</hi> and tho we aſ<g ref="char:EOLhyphen"/>ſured them it was not to be read as any proof of the Blaſphe<g ref="char:EOLhyphen"/>mies we Charged them with, but only to ſettle the prelimi<g ref="char:EOLhyphen"/>naries, yet could we not prevail for a long while.</p>
+            <q>
+               <p>And ſo gladly would we be made manifeſt to all the World, if that after the reading of this Book any be un<g ref="char:EOLhyphen"/>ſatisfied ſtill in this matter, and if any, Eſpecially of the Heads and Rulers, have Doubts and Jealouſies raiſed in them concerning Us and the Prieſts, and that they further would be ſatisfied and reſolv'd for that end, let any wiſe Men propound for full ſatisfaction of all ſorts of People, that We with the conſent of the Chief in Authority that have Power in this Nation, who may preſerve Peace and Safety among People, and thereby to ſtop all Jealouſies, may Freely
+<pb n="3" facs="tcp:44447:3"/>
+and Cheerfully, 4, 10, 20, 30, more or fewer of Us, give as many of the Wiſeſt and Ableſt of the Prieſts and Profeſſors a meeting for Diſpute, at any Place in <hi>England;</hi> at what Place, Time, and for what Continuance as they ſhall Aſcribe and Conſent unto, and to Diſpute and Con<g ref="char:EOLhyphen"/>trovert betwixt Us and Them, any ſuch Thing, and every ſuch Particular as ſhall, or may be objected by any of the Heads and Rulers, or other grave underſtanding Men—and a little after he ſaith thus, And let ſuch, whether Them or Us, that cannot prove our Selves to be the True Church of Chriſt, nor of the True Worſhip and True Religion, nor in the Truth, but is found to be in the Errour and out of the Truth: Let ſuch deny their Worſhip and Church, Renounce all their Religion, and Confeſs to all the World under their Hands, that they are, and have been deceived, and for ever hereafter ſtop their Mouths, and never profeſs nor practice any more what they have done in ſuch a Reli<g ref="char:EOLhyphen"/>gion; And freely upon theſe Iſſues and Conditions We will joyn Tryal with Them. <hi>Let Them appoint, Time, Place, and profer Terms at Their own pleaſure,</hi> and then to all the World it ſhall be manifeſt, and to all People diſcovered, whether We have not good Ground and ſufficient Reaſon to War againſt theſe Prieſts.</p>
+            </q>
+            <p>The paſſage out of <hi>Edw. Burroughs</hi> being read at laſt, they then alledged they were not bound, neither would they ſtand to <hi>Edw. Burroughs</hi>'s Terms (for ſuch Meetings as theſe.) And then We Inſiſted upon Equity, and told them there was no reaſon (as in one of our Letters) that We ſhould be ſo gene<g ref="char:EOLhyphen"/>rouſly kind to Them, as to tell 'em the very Place where We would Aſſault 'em; for the nature of the Blaſphemy We charge 'em with ſhould be ſo Plain and Obvious, that every Chriſti<g ref="char:EOLhyphen"/>an ſhall be able to underſtand it to be ſo upon the reading it to them. But ſhould we tell them the Names of our Books, Page, and Line beforehand, we had deſerv'd rather to be laughed at as Fools, than looked on as Diſputants; for this
+<pb n="4" facs="tcp:44447:4"/>
+would be to ſend them our Arguments before the Diſputa<g ref="char:EOLhyphen"/>tion; if we ſhould tell 'em all the Mediums from whence we intended to ſetch them: We told them the Evidence we ſhould bring<g ref="char:punc">▪</g> was not from ours, but from their own Books, and it was not ſit we ſhould tell them the Names of our Wit<g ref="char:EOLhyphen"/>neſſes beforehand, that they might have time to Tamper with them, and make them ſpeak what they never Intended, and ſo weaken their Teſtimony: We aſſur'd them the Blaſ<g ref="char:EOLhyphen"/>phemy we Charge them with ſhould be very plain, and they need not ſend for their Advocates from far Countries to Plead the Cauſe of it, and make People believe that Blaſphemy is true Doctrine.</p>
+            <p>The ſame liberty we allowed to them, after they had An<g ref="char:EOLhyphen"/>ſwered our Charge, to Charge any of our Church of <hi>England</hi> Writers with Blaſphemy, and without giving us Book, Line, or Page beforehand, we will either Diſown or Juſtify it; be ſides, when a Time of Diſputation with an Adverſary is Set, and I have ſent him the Queſtions to be diſputed on; was it ever Expected before, that I ſhould before the Time ſend him all my Proofs: The Queſtion you know betwixt us, is, whe<g ref="char:EOLhyphen"/>ther they be Blaſphemers or no? we hold the Affirmative, and offer to prove it; but they will make no defence for themſelves, unleſs we ſend them all our Proofs beforehand. <hi>Preſently</hi> they Cried out, we Reproach the Parliament, who have owned them to be Diſſenting Proteſtants, whilſt we would prove them to be Blaſphemers; and indeed they did Strut Exceedingly for the Honour the Parliament hath done them, to Recognize them as Proteſtants, as if under the Pro<g ref="char:EOLhyphen"/>tection of the Act of Parliament they might Blaſpheme (<hi>Cum Privilegio</hi>) and no body muſt be ſo bold as to Ask them, why do you ſo? They told us we are going about moſt unchari<g ref="char:EOLhyphen"/>tably to <hi>Damn</hi> them all. We told them, they may Repent of their Blaſphemies and be ſaved: For <hi>Panl</hi> was once one of their Companions in Blaſpheming the Name of <hi>Jeſus Chriſt,</hi> and if they will Accompany him in his Change too, they may obtain Mercy as well as he.</p>
+            <pb n="5" facs="tcp:44447:4"/>
+            <p>They told us Blaſphemy againſt God, was the Sin againſt the Holy Ghoſt, becauſe the Holy Ghoſt was God: We told them we were ſorry it was ſo for their ſakes; but for their Comfort we hope for to make it appear it was not that un<g ref="char:EOLhyphen"/>pardonable Sin; ſo from the 12th of St. <hi>Math.</hi> we Explain'd to them the nature of that Sin, and ſtopt their Mouths, and now we began to Charge them with Blaſphemy againſt God; they Intreated us to ſuſpend a while, and they would deſire to ſpeak but one quarter of an Hour, and then they would be ſilent; we yielded it, then they talked againſt the Chal<g ref="char:EOLhyphen"/>lenger, and the Unreaſonableneſs of the Preliminaries what they pleaſed, and when they had Harangued thus a quarter of an Hour: Now Gentlemen, ſaid we, we hope you will give us leave to talk out our quarter too: No truly, ſaith one of them, that is a new Bargain; whereupon the People Shou<g ref="char:EOLhyphen"/>ted and Hiſſed them, and as ſoon as we began to pro<g ref="char:EOLhyphen"/>ſecute our Charge, one gets upon a Form and bawls aloud to the People, to ſtop their Ears, or Deaſen them, that they might not hear us: Thus they continued, (for as ſoon as one was wearied another ſtepped up in his Place) till the End of the Day: Tho there were two Magiſtrates preſent, and many Perſons of good Quality, with a great Company of all ſorts of People beſides, ſome of whom offered, if we would permit it, to have pull'd them down and turn'd them out: This Diſorder hindred us from proſecuting our deſign to any purpoſe, tho we Permitted every one of them from <hi>London,</hi> or from <hi>Rome,</hi> if they pleaſed, to have free liberty to Diſpute, if they will do it fairly without Noiſe or Cla<g ref="char:EOLhyphen"/>mour: No, they declar'd they did not come thither to Diſ<g ref="char:EOLhyphen"/>pute, for they were not prepared: And whereas we had brought a great number of the <hi>Quakers Books</hi> both Old and New, and all of them of their moſt Celebrated Authors, they Cryed<g ref="char:punc">▪</g> no Books, no Arguments; which occaſion'd great Laughter and Shouting among the People; but they ſtill continued their long Harangue againſt our Preliminaries,
+<pb n="6" facs="tcp:44447:5"/>
+and about the great ſufferings they had Endured, deſignedly, that the People might not hear us; and ever and anon they would have been Charging us; Inſolently urging us to prove our ſelves Chriſtians, and by and by we muſt prove our ſelves Miniſters of Chriſt; which was Anſwered, tho we told them that was not the buſineſs of the Day. And 'twas a Cunning deſign of theirs to divert us from our Charge ſo much dreaded by them. When we were in the purſuit of their Blaſphe<g ref="char:EOLhyphen"/>mies, to ſtart another game in our way; we bid them Anſwer our Charge firſt, and then we ſhould be at leaſure to Anſwer any of theirs, provided they be not Charges of ſome little and ſmall Errours and Miſtakes, but down-right Blaſphemy.</p>
+            <p>One of us got to a Corner of the Seat from whence he might be heard by ſome of the People, and laid open ſome of the Blaſphemies we had to Charge them with, out of their Books, to the great ſatisfaction of the Auditors, who Cried out, Blaſphemy, Blaſphemy: but he could not proceed far without Diſturbance: One of them very Pertly asked us, that if we looked upon them to be ſuch Blaſphemers, what is the reaſon that we have let them alone ſo long, that they never heard of ſuch a Charge from us before (even thro the ſpace of Forty years?) and how comes it to paſs that we have been ſo Careleſs of our Flocks: We Ingenuouſly told them, that we never had ſo right an underſtanding of their Principles as of late; but for the future we aſſur'd them that we ſhall (and we hope all the reſt of our Brethren throughout all <hi>England</hi> will) take notice of this their Admonition, and double their Diligence and Vigilancy in their Reſpective places: A little after we took liberty each of us to propound an Argument, but could hardly go through with one of them; and upon Reading their Books to prove our Arguments, the People again Cried out Blaſphemy, Blaſphemy: It being near the Even<g ref="char:EOLhyphen"/>ing<g ref="char:punc">▪</g> one of their Speakers made mention of our Lord Biſhops Name, and that he had waited on him at <hi>Norwich,</hi> and Diſ<g ref="char:EOLhyphen"/>courſed with him About this Matter in the preſence of the
+<pb n="7" facs="tcp:44447:5"/>
+Arch-Deacon (Dr. <hi>Jeffery</hi>'s) And inſinuated to the People as if my Lord had now a more favourable opinion of their Challenge than before, ſince he had given him a more Juſt Relation (as he ſaid) of the Circumſtances, but none of us could believe his Relation: About this Time, or ſomewhat before, they threw among the People great numbers of little Pamphlets, thus ſtiled (<hi>The Chriſtianity of the People called</hi> Quakers) tho it neither Comes up to their Principles Expreſ<g ref="char:EOLhyphen"/>ſed in their former Books, nor is ſaid to be written from the Mouth of the Lord, and Sealed with the Eternal Spirit, as thoſe are, and without any of their Names or name affixed to it, ſo that any of them, if Charg'd with it, may at their own pleaſure deny it, as not agreeing with their former Teſli<g ref="char:EOLhyphen"/>monies, but plainly deſign'd to ſerve a preſent turn: This Charge of Blaſphemy nettled them Exceedingly, and they ſometimes Expoſtulated with us ſaying, the Charge was very High: we granted it to be ſo, but the worſt of it was, we ſhould Certainly prove it, if they would let us go on; but when we urg'd them with a paſſage out of <hi>Chriſtopher At<g ref="char:EOLhyphen"/>kinſon</hi>'s Book (call'd <hi>The Sword of the Lord drawn</hi>) as Guilty of Blaſphemy, they utterly diſowned both him and his Books, ſaying, the <hi>Quakers</hi> had renounc'd him above Thirty years ago, tho he was Mov'd (as he there Witneſſes in the Title page) by the Lord God of Life, and the Spirit of Truth, as it was made manifeſt in him from the Lord. The Night ap<g ref="char:EOLhyphen"/>proaching, and many of the People there being at great di<g ref="char:EOLhyphen"/>ſtance from their Homes, the Magiſtrates then Preſent ſee<g ref="char:EOLhyphen"/>ing nothing more (which might tend to Edification) was like to be done, were pleaſed to put and End to the Conteſt, and Diſſolve the Aſſembly: After we had declared, that ſee<g ref="char:EOLhyphen"/>ing they had Challenged us, we would not leave the matter thus; but ſeek for ſome more favourable opportunity to make good our Charge againſt them; and ſo we Intend (by Gods help) when the Days are long, and the Weather good, and if the <hi>Quakers</hi> will Anſwer fairly, we will permit any of them
+<pb n="8" facs="tcp:44447:6"/>
+all to Appear; but if they ſhall fall a Clamouring, as they Inceſſantly did at this Meeting, we will very Civilly (by ſome means or other) take them by the Hands and lead them out of Doors: But notwithſtanding they have done ſo much to hinder our good Deſign of proving our Charge to the People, we hope we have ſtopt the Gangreen that it ſpreads no further in our Corner, the People being generally ſatisfied, and do believe them now to be Blaſphemers, becauſe they Refuſed to come to a Tryal, nor would ſuffer their Books to be Read. This we thought neceſſary to give the World an Account of, not only for our own Vindication, but their Satisfaction, which we the principal Managers have given under our Hands this 12th day of <hi>December,</hi> 1698.</p>
+            <p>
+               <hi>Edw. Beckham,</hi> D. D. Rector of <hi>Gayton Thorpe.</hi>
+            </p>
+            <p>
+               <hi>Henry Meriton,</hi> Rector of <hi>Oxborough.</hi>
+            </p>
+            <p>
+               <hi>Lancaſter Topcliffe,</hi> Rector of <hi>Hockwold.</hi>
+            </p>
+            <p>
+               <hi>December</hi> the 12th 1698.</p>
+            <p>Having ſeen a Relation of a Conference (at the Manage<g ref="char:EOLhyphen"/>ment of which we were preſent) Atteſted under the Hands of <hi>Edw. Beckham,</hi> D. D. <hi>Henry Meriton,</hi> and <hi>Lancaſter Topcliffe,</hi> We do hereby Teſtify and Declare, that the Sum and Subſtance of the aboveſaid Relation is true.</p>
+            <closer>
+               <signed>
+                  <hi>E. Wodehouſe</hi> Juſtices of the Peace.</signed>
+               <signed>
+                  <hi>John Wodehouſe</hi> Juſtices of the Peace.</signed>
+               <signed>
+                  <hi>John Meriton,</hi> Rector of <hi>Boughton.</hi>
+               </signed>
+               <signed>
+                  <hi>Laur. Parke</hi> of <hi>Barton,</hi> St. <hi>Andrews.</hi>
+               </signed>
+               <signed>
+                  <hi>Henry Bell</hi> Eſq;</signed>
+               <signed>
+                  <hi>Thomas Fyſh</hi> Preacher at <hi>Kings Lynn.</hi>
+               </signed>
+               <signed>
+                  <hi>Thomas Walker,</hi> B. D<g ref="char:punc">▪</g> Fellow of <hi>Sidney</hi> Coll. in <hi>Cambridge.</hi>
+               </signed>
+               <signed>
+                  <hi>John Williamſon.</hi> Miniſter of the Goſpel.</signed>
+               <signed>John Turner.</signed>
+               <signed>Charles Peaſt.</signed>
+               <signed>
+                  <hi>Phi. Wodehouſe,</hi> Gent.</signed>
+               <signed>William Blythe.</signed>
+               <signed>Bellw. Raven.</signed>
+               <signed>Edward Tilſon.</signed>
+               <signed>
+                  <hi>John Maxey,</hi> Junior.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb n="9" facs="tcp:44447:6"/>
+            <head>A Copy of the <hi>Quakers</hi> Challenge <hi>September</hi> the 7th 1698.</head>
+            <opener>
+               <salute>
+                  <hi>Hen. Meriton, John Meriton,</hi> and <hi>Laur. Parke.</hi>
+               </salute>
+            </opener>
+            <p>IT is Prudence in Wiſe men, to hear and weigh a Deſence as well as a Charge. <hi>Francis Bugg</hi> hath Charged the Peo<g ref="char:EOLhyphen"/>ple called <hi>Quakers</hi> in Print, and has been Anſwered to thoſe ſeveral Charges ſeveral times. Some of the Anſwers wrote in Defence of the ſaid People are Entituled, <hi>A Charitable Eſſay, A Juſt Enquiry, Innocency Triumphant, and the Counterfeit Convert a Scandal to Chriſtianity:</hi> Which are thoſe which at preſent occur to our Memory. And when you have read over thoſe Anſwers, if you will give it under your Hands, that thoſe Anſwers are Defective; Or if you think you have Matter to Charge us withal, let us have your Charge under your own Hands, and appoint Time and Place convenient, and <hi>we</hi> or ſome others of <hi>us</hi> (God willing) will meet <hi>You</hi> as Publickly as you Pleaſe. But we reject <hi>Francis Buggs</hi> Charge, as being already ſufficiently Anſwered ſeveral times over, as alſo him to be one of the Perſons concerned againſt us in Diſputation, becauſe of his unreaſonableneſs.</p>
+            <p>We cannot ſuppoſe you ſo void of Common Sence, as to look upon it ſuitable to a right Management of Controver<g ref="char:EOLhyphen"/>fy, to anſwer an Oppoſer ſeveral times over in one and the ſame thing or things.</p>
+            <p>And be it known unto you all, this is not thro any Con<g ref="char:EOLhyphen"/>ſciouſneſs to our ſelves, of holding any Errors; But if you think it is, you may if you pleaſe, try the utmoſt of your skill and ſtrength, and ſee what you can get by it. Pray leave of Boaſting, till you have obtained the Victory.</p>
+            <p>Remember the Anſwer that was given to <hi>Ben-hadad,</hi> 1 <hi>K.</hi> 20. 11. You may make up a <hi>Quaker</hi> according to your own
+<pb n="10" facs="tcp:44447:7"/>
+Dreſs, to pleaſe your Fancies, but Counterſeits will not paſs with us for true Coyn.</p>
+            <p>Therefore to conclude at preſent, as we ſaid before, <hi>we</hi> are free, or ſome others of <hi>us,</hi> to meet with <hi>you</hi> or any of you all, <hi>Francis Bugg</hi> only Excepted, for the Reaſons aforeſaid, to take your Charge, and ſtand a publick Tryal, deſiring only the Common Priviledges to ſuch occaſions belonging, Pro<g ref="char:EOLhyphen"/>vided as aforeſaid you think meet, in <hi>your</hi> own Names, or any other of <hi>your</hi> Cloth, to Charge <hi>us.</hi>
+            </p>
+            <p>And through the Lords aſſiſtance you ſhall hear from <hi>us,</hi> or ſome other of <hi>us,</hi> whom <hi>you</hi> or ſome of <hi>you,</hi> have endea<g ref="char:EOLhyphen"/>voured to traduce, and we doubt not Publickly to put aſide that Diſguiſe that by others hath been put upon <hi>us,</hi> and to make it appear to all unbiaſſed Perſons, that <hi>we</hi> really are, in the Truth, and Simplicity of the Goſpel of our Lord and Saviour Jeſus Chriſt.</p>
+            <closer>
+               <signed>Your real Friends. <hi>Rich. Aſhby.</hi>
+               </signed>
+               <signed>Stephen Stanton.</signed>
+               <signed>Tho. Buckingham.</signed>
+               <signed>John Hubbard.</signed>
+               <signed>Daniel Phillips.</signed>
+               <signed>Richard Caſe.</signed>
+               <signed>Phillip Taſſell.</signed>
+               <signed>Matth. Harriſon.</signed>
+               <signed>John Brown.</signed>
+               <signed>Rich. Marler.</signed>
+               <signed>John Hunter.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>A Copy of the Anſwer to the <hi>Quakers</hi> Challenge, ſent to <hi>John Hubbard, Richard Aſhby, Daniel Phillips, Rich. Caſe, &amp;c.</hi> the 27th of <hi>October,</hi> 1698.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>IT hath not been from any diſtruſt of the goodneſs of our Cauſe, or any backwardneſs in <hi>us</hi> to defend It, that <hi>we</hi> have been thus long in returning an Anſwer to the Challenge <hi>you</hi> ſent <hi>us,</hi> but partly from not being able to re<g ref="char:EOLhyphen"/>ſolve immediately, at that diſtance <hi>we</hi> Live, from thoſe <hi>we</hi>
+               <pb n="11" facs="tcp:44447:7"/>
+had to Conſult, how far it was ſit to Comply with ſome of <hi>your</hi> Terms, that appeared unreaſonable to <hi>us,</hi> and partly from the diſiculty of getting <hi>your Books,</hi> which <hi>you</hi> might with greater Juſtice expect in this Caſe <hi>we</hi> ſhould read, if they were permitted to go more freely, then yet <hi>we</hi> can find, into other Hands, as well as thoſe of <hi>your</hi> Friends. But hav<g ref="char:EOLhyphen"/>ing, with a great deal of trouble, in ſome Meaſure got over this Stop, <hi>we</hi> ſhall not inſiſt upon <hi>Francis Buggs</hi> bearing any part in the intended Diſpute, Nor wave the Challenge <hi>you</hi> have turned upon <hi>us,</hi> inſtead of accepting of <hi>his,</hi> which yet <hi>we</hi> think <hi>you</hi> ought to have done, Notwithſtanding what <hi>you</hi> Precarriouſly aſſirm in <hi>your</hi> own Cauſe, of <hi>his</hi> being unrea<g ref="char:EOLhyphen"/>ſonable and Anſwered already.</p>
+            <p>But <hi>your</hi> excluding <hi>him,</hi> ſhall not hinder <hi>us,</hi> or ſome of our Bretheren, from giving <hi>you</hi> a Meeting, in Anwer to <hi>your</hi> Challenge.</p>
+            <p>And that <hi>we</hi> may prevent Tumults and Conſuſions, and that <hi>our</hi> Meeting may obtain the deſign <hi>we</hi> hope for, God's Glory and the Hearers Edification, <hi>we</hi> think fit to acquaint <hi>you</hi> with theſe following Propoſitions:</p>
+            <list>
+               <item>I. That the Place to Meet in be <hi>Weſt-Dereham</hi> Church, being pretty Capacious and well Gallery'd.</item>
+               <item>II. That the time of <hi>our</hi> Meeting be on <hi>Thurſday</hi> the 8th of <hi>December,</hi> at Ten of the Clock in the Forenoon, and ſo on, as many <hi>Thurſdays</hi> following, as there ſhall be occaſion for.</item>
+               <item>III. That but Six of a ſide be permitted to Diſpute, and thoſe Six to be known Inhabitants, within the Counties of <hi>Nor<g ref="char:EOLhyphen"/>folke,</hi> and <hi>Suffolke,</hi> Or the City of <hi>Norwich,</hi> and that there be but one of thoſe Six to ſpeak at a time, and that he be not interrupted, unleſs he run out beyond the term of five Minutes at a time.</item>
+               <item>IV. That no Perſonal reflections ſhall be made one againſt ano<g ref="char:EOLhyphen"/>ther, that are Forraign to the Cauſe.</item>
+               <item>V. That a Notary of each ſide be appointed, to write down the Objections and Anſwers that are made by either Party,
+<pb n="12" facs="tcp:44447:8"/>
+and that they be compared at the end of every Meeting, if there ſhall happen to be more than one.</item>
+            </list>
+            <p>The matters <hi>we</hi> Charge <hi>you</hi> with are as follow.</p>
+            <list>
+               <item>I. <hi>We</hi> Charge <hi>you</hi> with Blaſphemy againſt God.</item>
+               <item>II. With Blaſphemy againſt Jeſus Chriſt.</item>
+               <item>III. With Blaſphemy againſt the Holy Scriptures.</item>
+               <item>IV. <hi>We</hi> Charge <hi>you</hi> with great contempt of Civil Magiſtra<g ref="char:EOLhyphen"/>cy, and the Ordinances which Jeſus Chriſt Inſtituted, <hi>viz. Baptiſm</hi> by <hi>Water,</hi> and the <hi>Lord's Supper,</hi> with <hi>Bread</hi> and <hi>Wine.</hi>
+               </item>
+               <item>V. <hi>We</hi> Charge <hi>you,</hi> that the <hi>Light within</hi> as taught by <hi>you,</hi> leaves <hi>you</hi> without any certain Rule, and Expoſes <hi>you</hi> to the forementioned, and many other Blaſphemies.</item>
+            </list>
+            <closer>
+               <signed>Hen. Meriton.</signed>
+               <signed>John Meriton.</signed>
+               <signed>Lau. Parke.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>October 31. 1698.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>YOUR Paper, with the Charge upon the People call'd <hi>Quakers</hi> without a Date, came to the Hands of our Friend <hi>John Hubbard</hi> on the 27th Inſtant. <hi>You</hi> were pleaſed to call the Offer <hi>we</hi> made to <hi>you</hi> in Writing a Challenge, which term we think is no ways applicable to it. For <hi>we</hi> taking Notice of <hi>your</hi> readineſs to Eſpouſe <hi>Francis Buggs</hi> Charge and Challenge, <hi>we</hi> lookt upon it very Reaſonable, and Prudence in <hi>you</hi> as Wiſe men, to hear <hi>our</hi> Defence, there<g ref="char:EOLhyphen"/>fore referr'd <hi>you</hi> to ſeveral of <hi>our</hi> Printed Anſwers, which if <hi>you</hi> had deſir'd of <hi>us</hi> to have ſeen them, <hi>we</hi> would have pro<g ref="char:EOLhyphen"/>cured them for <hi>you,</hi> but not one word of that from <hi>you,</hi> in ſo many Weeks time. And for <hi>our</hi> excluding <hi>F. B.</hi> from any Part of the intended Diſpute, <hi>we</hi> have ſo much Cauſe and reaſon for it (<hi>we</hi> believe) as will ſufficiently juſtify <hi>us,</hi> in the
+<pb n="13" facs="tcp:44447:8"/>
+Opinion of all Judicious Perſons. And whereas <hi>you</hi> render it difficult, to Procure <hi>our</hi> Friends Books, <hi>we</hi> are willing to expoſe them, to any that deſires them, as is well known, and as <hi>you</hi> might have Prov'd, if <hi>you</hi> had made Tryal.</p>
+            <p>And now before <hi>we</hi> take Notice of <hi>your</hi> Propoſitions, <hi>we</hi> judge it neceſſary to enquire into the Extent of <hi>your</hi> Charge, whither it be upon the whole Body of the People called <hi>Qua<g ref="char:EOLhyphen"/>kers,</hi> or upon Particular Perſons, or upon the Writings of Par<g ref="char:EOLhyphen"/>ticular Perſons, Eſpecially <hi>your</hi> three firſt Charges. If <hi>you</hi> Charge a whole Body of People, <hi>you</hi> are not Juſt in <hi>your</hi> li<g ref="char:EOLhyphen"/>mitation, that the Perſons that have a ſhare in the Diſpute, be only known Inhabitants in <hi>Norfolke, Suffolke,</hi> and City of <hi>Norwich,</hi> and at the ſame time Charge all the ſaid People generally. If it be againſt particular Perſons, <hi>we</hi> judge <hi>you</hi> ought to name Them in <hi>your</hi> Charge; if it be againſt the Writings of particular Perſons, it is neceſſary for <hi>you</hi> to name the Authors, and the Titles of the Books, and the Pages, this <hi>we</hi> inſiſt upon. Theſe things Premiſed, <hi>we</hi> take Notice of <hi>your</hi> Propoſitions.</p>
+            <list>
+               <item>I. As to the Place in <hi>Weſt Dereham, we</hi> do not object againſt it, but are indifferent as to that.</item>
+               <item>II. The day Prefixt being the Eighth of <hi>December,</hi> will not be convenient for ſome of <hi>us,</hi> being in <hi>Stoak fair</hi> Week.</item>
+               <item>III. That Six Perſons of a ſide only be Permitted to Ma<g ref="char:EOLhyphen"/>nage the Diſpute, and thoſe Six to be known Inhabitants in <hi>Norfolke, Suffolke,</hi> and <hi>Norwich, we</hi> agree to, provided <hi>your</hi> Charge reaches not to any Perſon, or the Writings of any <hi>Perſon,</hi> that lives not in either of the ſaid Counties, or the ſaid City, but if it doth, <hi>we</hi> expect and account it very reaſonable to be left to <hi>our</hi> free liberty in the Choice of <hi>our</hi> Six, and allow the ſame liberty to <hi>you.</hi> And that but one be allowed to ſpeak at a time, is very neceſſary, and <hi>we</hi> like it well, but not to be limited Preciſely to the ſpace of five Minutes; yet to endeavour brevity, and before anſwer be made, that there be a little pauſe.</item>
+               <pb n="14" facs="tcp:44447:9"/>
+               <item>IV. V. Your 4. and 5. Propoſition <hi>we</hi> like, as ſtated by <hi>you.</hi> And do expect an Explanation of the extent of <hi>your</hi> Charge, as is aboveſaid, to be ſent <hi>us</hi> without much delay, waving here to Repeat or Object againſt it, or any Article thereof, but refer that until <hi>we</hi> hear further from <hi>you. We</hi> are your Friends,</item>
+            </list>
+            <closer>
+               <signed>Rich. Aſhby.</signed>
+               <signed>John Hubbard.</signed>
+               <signed>Dan. Phillips.</signed>
+               <signed>Richard Caſe.</signed>
+               <signed>John Brown.</signed>
+               <signed>Phillip Taſſill.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To <hi>Rich. Aſhby, John Hubbard, Dan. Phillips, Ri<g ref="char:EOLhyphen"/>chard Caſe, John Brown,</hi> and <hi>Phillip Taſſell;</hi> the Coppy of a Letter in Anſwer to the Former, dated <hi>November</hi> the 3d 1698.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>WE Obſerve in <hi>your</hi> laſt, dated <hi>Octob.</hi> the 31ſt 1698. how apt you are to Catch at every little Eſcape, tho nothing relating to the Cauſes, the omiſſion of a date. <hi>We</hi> hope, tho <hi>we</hi> forgot the 27th of <hi>October, we</hi> ſhall not forget the 8th of <hi>December. You</hi> are offended <hi>we</hi> call <hi>your</hi> firſt Let<g ref="char:EOLhyphen"/>ter a Challenge to <hi>us,</hi> tho <hi>our</hi> betters have thought it to be the Boldeſt, and Perteſt that ever was ſent to the whole <hi>Hoſt of Iſrael, viz.</hi> as <hi>you</hi> more then once in <hi>your</hi> Letter term it to <hi>us,</hi> or any of <hi>us</hi> all, and to any of <hi>our</hi> Cloth, and that from the Hands of ſuch whom <hi>we</hi> never took to be any great <hi>Goliahs.</hi> But all this anger is it ſeems, becauſe <hi>we</hi> ſo Zea<g ref="char:EOLhyphen"/>louſly, as you think, eſpouſe <hi>Francis Buggs</hi> Charge. One may ſee how ready <hi>you</hi> are to take Fire when ſo ſmall a Spark will kindle <hi>you;</hi> For one of <hi>us</hi> was not there when he deli<g ref="char:EOLhyphen"/>vered his Charge; Another of <hi>us</hi> came by meer accident; and None of <hi>us</hi> were any other then as Witneſſes to the delivery of it; which any Three of <hi>your</hi> honeſt Neighbours, <hi>we</hi> ſuppoſe, might have been without offence. As to the Books <hi>you</hi> men<g ref="char:EOLhyphen"/>tion'd
+<pb n="15" facs="tcp:44447:9"/>
+to <hi>us</hi> to be Read, which <hi>you</hi> conceive would have cooled <hi>our</hi> Zeal for <hi>Bugg,</hi> and his ſo often as <hi>you</hi> ſay baffl'd Charge, <hi>You</hi> may pleaſe to know that <hi>we</hi> have Read them, and that <hi>Bugg</hi> is not Anſwer'd, nor can be Anſwer'd any other way (ſeeing this Charge is drawn from Quotations out of <hi>your Books</hi>) but by denying the Truth of Them, which <hi>your</hi> pre<g ref="char:EOLhyphen"/>tended Anſwerers do not do; but betake themſelves to their uſual Palliating and Painting tricks, to cover over and hide their deformities.</p>
+            <p>
+               <hi>We</hi> conſeſs <hi>we</hi> had a better Opinion of <hi>your</hi> Principles be<g ref="char:EOLhyphen"/>fore <hi>we</hi> ſaw <hi>your Books</hi> then now <hi>we</hi> have; for indeed <hi>we</hi> have received more ſatisfaction from <hi>your</hi> Anſwers<g ref="char:punc">▪</g> then from the Books they pretend to Anſwer, being confirm'd more in <hi>our</hi> belief that they are Unanſwerable. And if <hi>you</hi> write in this manner, <hi>we</hi> ſhall never deſire to take the Pen out of <hi>your</hi> Hands, for it will do <hi>us</hi> no Hurt; but for the Gall that is in the Ink. Yet becauſe <hi>you</hi> ſay he muſt be rejected, and <hi>you</hi> will have it ſo, <hi>we</hi> have given <hi>you</hi> your Humour, and have accepted of <hi>your</hi> Challenge without him.</p>
+            <p>Friends, <hi>Your</hi> People have been ever ready to ſay, <hi>Our</hi> Charges have been Lies and Forgeries, and every where have run with this cry in their Mouths; Lies, all Lies, becauſe alas, they never Read <hi>our Books,</hi> or at leaſt never compar'd them with <hi>your</hi> Authors: Therefore <hi>we</hi> perceive that writing Books will not do; but <hi>we</hi> muſt bring forth thoſe that <hi>you</hi> have written at a Publick Meeting, and lay them open be<g ref="char:EOLhyphen"/>fore <hi>your</hi> deluded followers, and deſire them to ſee with their own Eyes, and perhaps they may ſee ſuch a Frightful Sight as they little expected there.</p>
+            <p>
+               <hi>You</hi> might eaſily have diſcerned that <hi>our</hi> Charge affects the whole Body of <hi>your</hi> People, it relating to Blaſphemies ſo long and ſo often Printed and yet never Contradicted or Cenſured, but aſſerted to be from Perſons Infallible. Blaſphemies ſo often approved of by <hi>your</hi> Second day Meeting, where all <hi>your Books</hi> are Examined, and by an Index <hi>Expurgatorius</hi> Cor<g ref="char:EOLhyphen"/>rected,
+<pb n="16" facs="tcp:44447:10"/>
+tho written from the Mouth of the Lord. So that <hi>your Church</hi> hath owned them, and <hi>we</hi> may juſtly Charge the Blaſphemies of theſe Books upon <hi>it,</hi> till they diſown them.</p>
+            <p>But <hi>you</hi> ſeem to be much concerned for the Reſtraint <hi>we</hi> lay upon <hi>you,</hi> ſo that <hi>you</hi> may not go out of this Dioceſs for <hi>your</hi> aſſiſtance. But truely Sirs, <hi>you</hi> ſee, <hi>we</hi> have put the ſame Reſtraint upon <hi>our</hi> ſelves, <hi>we</hi> will not go out of the Dioceſs, perhaps, but a little way from Home for <hi>ours; we</hi> cannot think <hi>you</hi> can be at a want for help in ſuch a Dioceſs, where there are ſeveral Thouſands of <hi>you.</hi>
+            </p>
+            <p>Beſides if <hi>you</hi> will have a little Patience, the Perſons <hi>you</hi> had probably deſigned for this Service may have work enough at Home ere long: For <hi>we</hi> are Inclinable to believe, that the like Charge to this will go thro many Dioceſſes in this King<g ref="char:EOLhyphen"/>dom; So that they may ſave <hi>their</hi> Powder and Shot till the Charge comes to <hi>their</hi> Door.</p>
+            <p>
+               <hi>Friends,</hi> tho <hi>we</hi> intend to Charge <hi>you</hi> with Blaſphemy out of <hi>your own Books;</hi> yet <hi>we</hi> cannot think it fit to give <hi>you</hi> the Authors Names, Line, and Page; for that were to ſend <hi>you our</hi> Arguments before the day <hi>we</hi> ſhall uſe them, that <hi>you</hi> might have time the more cunningly to Elude the force of them. It is enough to let <hi>you</hi> ſee, <hi>we</hi> intend to Charge <hi>you</hi> with Blaſphemy, as expreſſed in <hi>our</hi> laſt, tho <hi>we</hi> ſhould not be ſo fooliſhly generous as to tell <hi>you</hi> the very Place where <hi>we</hi> in<g ref="char:EOLhyphen"/>tend to aſſault <hi>you.</hi> Beſides <hi>we</hi> our ſelves have not yet read over ſome of <hi>your Books<g ref="char:punc">▪</g>
+               </hi> out of which as <hi>we</hi> are reading them, there ariſes every day new matter for a Charge, and ſo per<g ref="char:EOLhyphen"/>haps there may to the time of <hi>our</hi> Meeting; For <hi>we</hi> can ſearce open a Book of <hi>yours,</hi> but preſently <hi>we</hi> are even frighted with ſuch Apparitions that ſends <hi>us</hi> to our Prayers, for a Poor de<g ref="char:EOLhyphen"/>luded People that are daily haunted with them: And further <hi>we</hi> may add, that <hi>you</hi> have their Books as well as <hi>we,</hi> and would <hi>you</hi> read them over as <hi>we</hi> do, ye <hi>your</hi> ſelves could not but ſee thoſe Blaſphemies <hi>we</hi> Charge <hi>you</hi> with, being too big to eſcape your ſight.</p>
+            <pb n="17" facs="tcp:44447:10"/>
+            <p>But <hi>you</hi> think it juſt, the Authors of thoſe Books out of which <hi>we</hi> extract <hi>our</hi> Charge, ſhould be permitted to ſpeak for them<g ref="char:EOLhyphen"/>ſelves. <hi>You</hi> cannot but know, that moſt of thoſe Authors are Dead, and as for them that are alive, <hi>we</hi> have already heard them in <hi>your Prints</hi> to little purpoſe: However, they have no reaſon to Challenge it as a peculiar due to them, to be the only Vindicators of their Cauſe, ſeeing every Particular Member of <hi>your Church</hi> is concern'd in it, as well as they; So that it is a Charge upon every one of <hi>you</hi> all, as well as upon the Authors of thoſe Books, <hi>you</hi> having Eſpouſed them, till they be diſown'd, and condemn'd by <hi>you.</hi>
+            </p>
+            <p>To conclude, <hi>we</hi> cannot ſee how it can conſiſt with either Juſtice or Prudence to alter, <hi>our</hi> Method, for the Reaſons gi<g ref="char:EOLhyphen"/>ven; <hi>We</hi> therefore think it but a vain thing for <hi>you</hi> to trou<g ref="char:EOLhyphen"/>ble <hi>your ſelves</hi> or <hi>us,</hi> with any more ſuch Letters. Poor Peo<g ref="char:EOLhyphen"/>ple that are going blindfold to <hi>Samaria</hi> inſtead of <hi>Dothan;</hi> the Lord open <hi>your</hi> Eyes to ſee where <hi>you</hi> are, and whither <hi>you</hi> are going, is the Prayer of <hi>your</hi> beſt of Friends, tho <hi>you</hi> may poſſibly think <hi>as your</hi> greateſt Enemies.</p>
+            <closer>
+               <signed>Hen. Meriton.</signed>
+               <signed>John Meriton,</signed>
+               <signed>Lau. Parke.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>To <hi>Hen. Meriton, John Meriton,</hi> and <hi>Lau. Parke,</hi> a Reply to the foregoing Letter, dated <hi>Nov.</hi> the 9th 1698.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>YOURS of the third Inſtant <hi>we</hi> received, wherein is the date of <hi>your</hi> former; in Anſwer to which when, <hi>we</hi> in Friendly ſort told <hi>you</hi> of that Omiſſion, it was not that <hi>we</hi> did Catch at any little eſcape of <hi>yours,</hi> which did at leaſt re<g ref="char:EOLhyphen"/>late to the Letter, if not to the Cauſe. But to proceed; As in <hi>our</hi> laſt <hi>we</hi> judge the term Challenge not proper to the offer <hi>we</hi> made, whatever the Judgment of <hi>your</hi> Selves, or
+<pb n="18" facs="tcp:44447:11"/>
+Betters may be concerning it; As for its Boldneſs and Pert<g ref="char:EOLhyphen"/>neſs (as <hi>you</hi> are pleaſed to term it) <hi>we</hi> take it to be another Eſcape of <hi>your</hi> Memories, to ſuppoſe it herein to exceed any of thoſe (as <hi>you</hi> ſay) which were ſent to the whole <hi>Hoſt of Iſrael.</hi> But ſuch as it is <hi>we</hi> doubt not to make good, and that in truth void of Wrath. As to <hi>Francis Bugg, you</hi> did Eſpouſe his Charge blindfold, as appears by <hi>your</hi> after Inqui<g ref="char:EOLhyphen"/>ry, and reading of <hi>our Books,</hi> and did Eſpouſe it by more ways then that one of Witneſſing to the delivery of his Charge, which none of <hi>our</hi> honeſt unprejudicate Neighbours would.</p>
+            <p>As for Quotations made by <hi>Bugg</hi> from <hi>our Books, you</hi> ſay the pretended Anſwerers deny not the truth of them, but be<g ref="char:EOLhyphen"/>take themſelves to their uſual Palliating and Painting tricks, <hi>&amp;c.</hi> This Aſſertion <hi>we</hi> have no cauſe to Credit, but for the preſent will ſay, that <hi>we</hi> know that in ſeveral Anſwers of <hi>ours</hi> to Books of this ſort, there is frequently detected falſe Quota<g ref="char:EOLhyphen"/>tions, and his apparent Forgeries, which if either <hi>you</hi> have not read, or not obſerved, it might have been well enough to forbear that ſcurrility of <hi>Painting, and Tricks.</hi>
+            </p>
+            <p>Now for <hi>your</hi> Charge, <hi>you</hi> acknowledge it to be upon the whole Body of <hi>us,</hi> and therefore (as in <hi>our</hi> former) <hi>we</hi> think <hi>you</hi> are not juſt in <hi>your</hi> limitation, nor does <hi>your</hi> threat (if <hi>you</hi> will have a little Patience, <hi>&amp;c.</hi>) fright <hi>us</hi> from ſtill in<g ref="char:EOLhyphen"/>ſiſting on <hi>our</hi> Exceptions; For as <hi>our</hi> laſt did declare <hi>our</hi> ac<g ref="char:EOLhyphen"/>ceptance of ſuch of <hi>your</hi> Propoſitions as were equal and fair, and deſired the reſt might be agreeable, and ſuch as <hi>we</hi> are perſwaded no ingenuous or juſt Perſons would Evade or deny <hi>us;</hi> So <hi>we</hi> ſtill inſiſt on them, not knowing any Power or Dominion <hi>you</hi> have over <hi>us,</hi> to overrule what we have ſo fair<g ref="char:EOLhyphen"/>ly offered to qualify <hi>your</hi> Limitations. For if <hi>you</hi> intend to confine <hi>us</hi> as Reſpondents, only who are within this Dioceſs, it is reaſonable to confine <hi>you</hi> not to Charge Perſons or their Books more remote or abſent; For why ſhould a Man whom <hi>you</hi> may Charge, be obliged to Anſwer by Proxy, when per<g ref="char:EOLhyphen"/>haps
+<pb n="19" facs="tcp:44447:11"/>
+he can better defend himſelf; the Juſtice of the Com<g ref="char:EOLhyphen"/>mon Law in this Caſe much exceeds <hi>your</hi> pretence of Edifi<g ref="char:EOLhyphen"/>cation; And this being denied by <hi>you, we</hi> take it for granted, <hi>your</hi> deſign is to Cenſure and paſs Judgment on Perſons un<g ref="char:EOLhyphen"/>heard. And if <hi>your</hi> Charge be to be drawn from Books, it is as reaſonable by the Common voice of Mankind, that their Titles and Pages be given, the Authors of which if living, have an undoubted right to explain for themſelves; or if Dead, ſuch notice is reaſonable for <hi>our</hi> due preparation to Anſwer: Till which <hi>we</hi> ſhall only ſay, that the Living la<g ref="char:EOLhyphen"/>bours of the Dead have this Juſtice due to them, <hi>viz.</hi> that the whole be conſidered, and the Scope and Intent of the Wri<g ref="char:EOLhyphen"/>ter be taken, and not rigidly, much leſs falſly to pervert his words to a Sence contrary and repugnant to the Scope of the whole: The refuſal whereof will ſpeak a deſign Partial, In<g ref="char:EOLhyphen"/>jurious and Precipitant; but <hi>we</hi> hopeing (on better Conſi<g ref="char:EOLhyphen"/>deration) <hi>you'l</hi> do otherwiſe, do expect as above to be ſent <hi>us,</hi> in ſuch convenient time, as <hi>we</hi> may examine them, which cannot be in leſs time then Three weeks at leaſt. This de<g ref="char:EOLhyphen"/>mand its true <hi>you</hi> laugh at, and call it a fooliſh generoſity; yet, it being reaſonable, <hi>we</hi> inſiſt on it: For the frightful Ap<g ref="char:EOLhyphen"/>paritions which by opening <hi>our Books you</hi> ſay ſent <hi>you</hi> to <hi>your</hi> Prayers, <hi>&amp;c. we</hi> doubt <hi>your</hi> Frights or Fevers have been ſo great, as to prevent <hi>your</hi> having any true Idea of Them, or any loving concernment for <hi>Vs</hi> therein: And not finding <hi>our</hi> ſelves haunted, as <hi>you</hi> ſuggeſt, <hi>we</hi> rather deſire <hi>you</hi> to ſpeak truth than offer falſe Sacrifice. For concluſion to this, and to try <hi>your</hi> Ingenuity, whether <hi>your</hi> Method be to do as <hi>you</hi> would be done unto, <hi>we</hi> put theſe following Queſtions.</p>
+            <list>
+               <item>I. Whether <hi>you</hi> are willing to be Charged out of all the Old and New Books, Pamphlets and Sermons that <hi>your</hi> Bre<g ref="char:EOLhyphen"/>thren the Clergy have Wrote and Printed, to ſtand and fall by them.</item>
+               <item>II. Are <hi>you</hi> willing <hi>we</hi> ſhould Publickly Charge <hi>you</hi> with Errors, or Miſtakes out of any of the abovementioned, and not
+<pb n="20" facs="tcp:44447:12"/>
+beforehand give the Particular Inſtances to <hi>you;</hi> For know <hi>ye,</hi> that <hi>we</hi> expect Equal liberty with <hi>you,</hi> to Charge as well as to be Charged.</item>
+               <item>III. Will <hi>you</hi> Perſonate all <hi>your</hi> Brethren as above, both Dead and Living, ſo as to be Charged out of their Books in their ſtead.</item>
+            </list>
+            <p>Your direct Anſwer <hi>we</hi> expect without any further Evaſion, Boaſt or Menace, in the interim conclude.</p>
+            <closer>
+               <signed>Your abuſed (becauſe not ſufficienly known) Friends.</signed>
+               <signed>Richard Aſhby.</signed>
+               <signed>John Hubbard.</signed>
+               <signed>Dan. Phillips.</signed>
+               <signed>Richard Caſe.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>The Reply, dated <hi>November</hi> the 16th 1698.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>YOUR laſt does not a little aſtoniſh Us. 1<hi>ſt.</hi> That you ſhould deny your Challenge, which is as plain an one as Words in Engliſh can make it, and truly very brave, to all our Cloth, that is to Nine or Ten thouſand of us. 2<hi>ly.</hi> That you affirm, that we eſpouſed <hi>Bugg</hi>'s Cauſe, when you, or ſome of you cannot but know the contrary by one of us: For when the laſt Summer you demanded of <hi>Hen. Meriton,</hi> whether he would juſtify <hi>Bugg</hi>'s Books written againſt you, he Anſwer'd, They contain'd Matters of Fact, which he was not capable of judging of, having not the Books to compare them with <hi>Fran<g ref="char:EOLhyphen"/>cis Bugg</hi>'s Writings; yet told you, that if his Citations were true (you ſee then he made an If of it, and therefore did not juſtify them) he would juſtify ſuch Expreſſions were Blaſ<g ref="char:EOLhyphen"/>phemy.</p>
+            <p>But you are ſtill offended at our unreaſonable limitation of you as to the Place whence you are to fetch your Diſputants. But <hi>Friends,</hi> did not you begin with us? Did not you limit us, when you rejected <hi>Francis Bugg,</hi> and all others too, that were not of our Cloth, ſome of whom you know too well
+<pb n="21" facs="tcp:44447:12"/>
+might have been very uſeful to us in this Service. Nay, did not you reject <hi>Francis Bugg</hi> for this reaſon, becauſe he had been Anſwer'd, as you pretend, over and over again, and was unreaſonable, as if we had nothing to do but <hi>Actum agere:</hi> Aud may not we ſay the ſame of your Hackny Diſputants, they have truged ſo long in that road, and have been Spur'd and Gall'd by us enough already, and therefore in reaſon we ought to turn them off awhile, and give them reſt till ano<g ref="char:EOLhyphen"/>ther occaſion; More plainly, they have been Anſwered over and over already, and are unreaſonable.</p>
+            <p>Beſides, Your Church, which you profeſs your ſelves ſo Zealous Members of, have owned, and approved of thoſe Books we intend to quote, and your ſelves have been known to admire, and almoſt adore them and their Authors; And therefore till you diſclaim them, you are as much concern'd to Vindicate them as the Authors themſelves; for by own<g ref="char:EOLhyphen"/>ing them you become joynt Authors, and your Plea for them will be the Plea of Parties, and not of Proxies.</p>
+            <p>But now, When the Court of Equity will not relieve you, you fly to Common Law; but if yon give us no better proof of your skill in it, then in this inſtance, we ſhall have little reaſon to take your Counſel in Law Buſineſs.</p>
+            <p>
+               <hi>Friends,</hi> 'Tis matter of Fact we Charge you with, that we find ſuch and ſuch Blaſphemous Expreſſions in <hi>your Books:</hi> For matter of Right, whether ſuch Expreſſions are to be eſteemed Blaſphemy, we ſhall leave it to the Judgment of the Auditory. The matters of Fact your Authors have al<g ref="char:EOLhyphen"/>ready owned them, at leaſt ſo much as will make good our Charge: And for matter of Right, whether ſuch Expreſ<g ref="char:EOLhyphen"/>ſions are Blaſphemous or no, we think the Common Law will not allow the accuſed Malefactor, when he's convicted of the Fact a right, to Judge of the Law, or whether his Fact hath been a breach of it. Suppoſe we had Charged ſome of your <hi>Friends</hi> with Common Swearing by their Maker, and they ſhould not deny matter of Fact, that they have ſaid ſuch
+<pb n="22" facs="tcp:44447:13"/>
+words only; they excuſe them with a great deal of Artifice, that they were ſpoken in Paſſion, that they dropt from them raſhly, or their minds did a little run out, or truly they do not affect ſuch Speeches, or they may ſee Cauſe otherwiſe to word them, is there any Law or Equity ſuch Men ſhould be admitted in any Court in the World to Plead and Apologize for Common Swearing. If matter of Fact be Prov'd or Own'd, may not the Judge turn ſuch Men out of the Court, and paſs the Definitive upon them. The fact is own'd by their Men themſelves, that ſuch Expreſſions are in their Books, ſo much at leaſtwiſe as will prove the Charge, and let the Auditory (whom we appeal to as Judges in this Caſe) determine whether Blaſphemy or no. We dare affirm, it will be eaſier for the People to Judge that ſuch and ſuch words are Blaſphemy, then ſuch words are Swearing. And we are Sorry to ſee you ſo Zealous for ſuch Authors, only to give them an opportunity to excuſe Blaſphemy. At laſt, you di<g ref="char:EOLhyphen"/>rect us to that Golden Rule in Divinity, <hi>to do as we would be done by,</hi> and think you have Gravell'd us with three Queſti<g ref="char:EOLhyphen"/>ons, which you ſuppoſe we cannot Anſwer, if we ſtick to our former meaſure, without apparent Violation of it.</p>
+            <p>Now Sirs, what are thoſe hard meaſures, I pray? Why truly, after we have Charged ſome of yours with Blaſphemy, in ſome Books Printed 10, 20, 30, ſome 40, Years ago, that were never Corrected, nor Cenſured by your Church in your Second days Meeting, erected on purpoſe to Examine Books and Licence them, but have been approved and commended to us, and admired by almoſt all of you; we demand, that you would either juſtify, or diſown them publickly under your hands. And now you ask us very pertinently, whether we are willing to be Charged with all the Old and New Books and Pamphlets that our Brethren of the Clergy have written or Printed to ſtand or fall by them.</p>
+            <p>Such an Impertinency as this is would be almoſt Intole<g ref="char:EOLhyphen"/>rable, but that we are ſo commonly uſed to them by your
+<pb n="23" facs="tcp:44447:13"/>
+Party: Do but Scratch your Heads a little, and conſider ſeriouſly the force of ſuch a conſequence. We are bound to juſtify, or diſown all the Books of our Brethren, as to every little Error or Miſtake, becauſe we call upon you only to juſtify or diſ<g ref="char:EOLhyphen"/>own the Blaſphemies of yours: We doubt not but there have been ſome tolerable Errors in ours, which are no great blot to an Author that acknowledges himſelf to be a Man, <hi>viz.</hi> fallible, but a mighty prejudice againſt the Infallible Club, whether at <hi>Rome</hi> or <hi>Grace-Church-ſtreet,</hi> that pretend they cannot Err: And we are only obliged to a Charitable for<g ref="char:EOLhyphen"/>bearance in ſuch Caſes, when you will be obliged for every Error you find in yours, by reaſon of ſuch a pretence, to diſ<g ref="char:EOLhyphen"/>own them as Cheats.</p>
+            <p>But if any of our Authors have wrote or Printed Blaſphemy, we are ſure ſuch have not been approved or allowed of by our General Meeting, our Convocation, who have made bold to Cenſure them without asking the Authors leave; or if there be any ſuch that have eſcaped the Knowledge of the Convocation, and therefore not Cenſured by them, perhaps they have been condemned, if not burnt by Parliaments and Univerſities; or if they have eſcaped ſuch a Cenſure, bring out ſuch Books of ours when you will, and you ſhall ſee, we will either juſtify or diſown them, without calling for the Authors to come and plead their Cauſe.</p>
+            <p>To the Second Queſtion we Anſwer, You ſhall have equal liberty with us, produce our Books, and your Charge againſt them (Suppoſing it be of Blaſphemy) when you will after you have firſt anſwered ours, and we will give you leave to reſerve your particular inſtances to the very Time and Place of Meeting if you pleaſe; For we are aſſured, that Blaſphe<g ref="char:EOLhyphen"/>my is of ſo ſtrong and rank a Scent, that every Chriſtian that hath not his Noſe quite ſtopt, that as St. <hi>Paul</hi> ſays, can but exerciſe his Senſes never ſo little about Good or Evil, as ſoon as ever it's opened or diſcover'd, will preſently nauſeate and turn away from it. And we are ſorry that ſo many of
+<pb n="24" facs="tcp:44447:14"/>
+you have got ſuch a ſtuffing in your Heads, as not to perceive it; Nay, you think them ſweet Odours ſure, that you will not be ſatisfied till you be allowed Advocates to Plead for them, as ſound and wholſom, and therefore to be continued in the beſt Room of the Houſe, the Church.</p>
+            <p>The third Queſtion is Coincident with the Firſt, but we muſt anſwer it, or you'l ſay we dropt it for its Weight; for there is no reaſon we ſhould appear in the Porſon of all thoſe our Brethren, ſo as to be Charged with every little Error out of their Books, in their ſtead; but this we will do, bring forth their Books and Blaſphemies, as we haveſaid before, and we will either juſtify them or diſown them, without conſulting the Authors of them. And this is all that we deſire of you, either to juſtify or diſown Yours and Their Blaſpemies under Your Hands, which we may expect from you by the ſame rule you lay before us, <hi>do as you would be done by.</hi>
+            </p>
+            <p>And why may we not expect this of you, ſeeing you have abandoned you Authors in leſſer matters, as in their Orders about <hi>Ribbons, Lace, Slit-waſt-Coats, Prancing Steeds, Coſtly Habits, fine Clothes, Stately Buildings, in for bearing to Thee and Thou, and Sir your Betters,</hi> Seeing many of you have oppoſed their Orders in <hi>Paying Tithes, Womens Meetings, Swearing in Courts of Judicature, of carrying no Guns in their Ships, or uſing the Carnal Weapen.</hi>
+            </p>
+            <p>Laſt of all, We take Notice, with much joy, to ſee you ſo much fall off from the former rude and rugged behaviour of thoſe Men, whoſe Cauſe you eſpouſe, towards the Clergy: It is not long ſince your Addreſs to them was in that Tinkerly Language, <hi>Gready Doggs, Babylons Merchants, Devil dri<g ref="char:EOLhyphen"/>ven dungy Gods, Witches, Bloodhounds, Sodomites, Gimcracks, Wheelbarrows, Tatter demallions,</hi> which you have now Ex<g ref="char:EOLhyphen"/>changed for more familiar and kind Expreſſions, to call us <hi>Friends;</hi> tho your former Carriage hath been as Divinely Au<g ref="char:EOLhyphen"/>thorized as your preſent Blaſphemies; Your very Railings have been, as you have pretended, by Inſpiration. We hope
+<pb n="25" facs="tcp:44447:14"/>
+ſince you have begun to draw from that Old filthy Spirit that dwelt in your Anceſtors, you will at laſt totally abandon them, ſeeing you have abandoned them in leſſer Matters, and why not in their Blaſphemies? <hi>Friends,</hi> Pray trouble us no more with your Letters, for our Meaſures are fix't, and you may Chuſe whether you will meet us upon the Terms reſolved upon or no. No more from thoſe who are reſolved to continue your real Friends, whe<g ref="char:EOLhyphen"/>ther you will or no.</p>
+            <closer>
+               <signed>Hen. Meriton.</signed>
+               <signed>John Meriton,</signed>
+               <signed>Lau. Parke.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <head>Here followeth the Copy of the <hi>Quakers</hi> laſt Letter, dated <hi>November</hi> the 23d 1698. To which the Miniſters made no Anſwer.</head>
+            <opener>
+               <salute>Friends,</salute>
+            </opener>
+            <p>YOURS of the 16th Inſtant We have receiv'd; the tenor of it declares Your purpoſe ſtill to evade our juſt demand, as is ſet forth in our 2d and 3d Letters to you; we ſhall now give you a brief Reply, becauſe we perceive our Letters are trouble<g ref="char:EOLhyphen"/>ſome to you. Firſt, if you were as real as you pretend Frindſhip towards us, the Moderation of Friendſhip, queſtionleſs, would prevent your being aſtoniſhed at our denial of the Term Chal<g ref="char:EOLhyphen"/>lenge in our Letter to you: For then it had been our place to have Charged you, ſo we ſhould have made our ſelves Plaintiffs, and you had been Defendants, We doubt not but upon more ma<g ref="char:EOLhyphen"/>ture thoughts, your aſtoniſhment will vaniſh away. 2dly. We ſtill inſiſt upon our former demands, as juſt and reaſonable; for how can you (or any Man whatſoever) think that we, or any others for us, can make Anſwers to Matters thus hiddenly Char<g ref="char:EOLhyphen"/>ged upon us, whilſt you refuſe us the knowledge of them as (you ſay) they ſtand in our Books. Pray be plain with us, and if there be ſuch Rank Blaſphemy (as you ſay) bring it forth, do not be ſhy, Give us Author, Title, Book, and Page, and if you pleaſe, tell us in the firſt place, what is Blaſphemy. 2dly. Where<g ref="char:EOLhyphen"/>in do you Charge us with Blaſphemy againſt <hi>God,</hi> and againſt <hi>Jeſus Chriſt,</hi> and againſt the <hi>Holy Scriptures?</hi> What are the Words of thoſe ſeveral Blaſphemies? Your direct Anſwer to thoſe par<g ref="char:EOLhyphen"/>ticulars. 3dly. We think it not worth while to follow you thro all the Parts of your Letter, it being a great part of it <hi>Rattle,</hi> and <hi>Noiſe,</hi> beſides our preſent buſineſs. 4thly, You evade our Inſtance
+<pb n="26" facs="tcp:44447:15"/>
+of the Common Law. We diſtinguiſh between matter of Fact, and a Right to Judge. You have Charged us with matter of fact: We demand a Copy of our Charge, that we may prepare our Anſwer to make. (as a point of Juſtice allowed by the Com<g ref="char:EOLhyphen"/>mon Law to Male factors) We deny your having any Juriſ<g ref="char:EOLhyphen"/>diction over us, as Judges, and before we ſubmit, we will have full proof of your Commiſſion. Temporal Judges you are not, and to be Spiritually qualified you muſt prove, before we acknow<g ref="char:EOLhyphen"/>ledge you as ſuch. 5thly. Seeing you reſolutely refuſe our juſt demand, we do not look upon our ſelves obliged to Meet you un<g ref="char:EOLhyphen"/>der the limitation of your Terms.</p>
+            <p>We ſtand to our former offer, and by the Terms we have of<g ref="char:EOLhyphen"/>fered to qualify yours, and if you refuſe, it ſhews (for all your pretence of Friendſhip) a contrary deſign upon us; we cannot look upon your Reſolution to Friendſhip any thing elſe, but an empty pretence, until (as a proof that it is otherwiſe) you give us the inſtances of your Charge in Form and Manner aforeſaid; which is not (as you ſay) to ſend us your Arguments before<g ref="char:EOLhyphen"/>hand, but the matter of fact you Charge us with. This as a point of Juſtice from you we ſeek, not your mercy, make your Arguments as ſtrong as you will. But while you thus put us off, we look upon it no other then a ſhift, and Evaſion on your Parts, and a deſign to over-rule us. We leave it with you as a Teſt upon your reſoluet Friendſhip. Give us our juſt de<g ref="char:EOLhyphen"/>mand of Author, Title, Book, and Page, with convenient time (as ſet forth in our laſt to you) to prepare to make Anſwer; which if you ſtill deny, we look upon your pretence of Friend<g ref="char:EOLhyphen"/>ſhip to be a meer Complement and Decoy, and a Deſign of much evil to us Couch'd under't. Notwithſtanding we are your Friends, and deſire you would mind the witneſs of God in your Conſciences, that admits of no deceit, and will, if minded, lead you to deal plainly: To which you muſt ſtand or fall one day.</p>
+            <closer>
+               <signed>Richard Aſhby.</signed>
+               <signed>John Hubbard.</signed>
+               <signed>Dan. Phillips.</signed>
+               <signed>Richard Caſe. <hi>&amp;c.</hi>
+               </signed>
+            </closer>
+            <postscript>
+               <p>P. S.</p>
+               <p>SEeing you have rejected our Terms as aforeſaid, and we have refuſed to be impoſed upon by ſome of your Limitations, we therefore ſhall take our Liberty, either to Meet or not Meet you: And if we Meet you, to have others of our Friends preſent with us, who are not Inhabitants within this Dioceſs, if we ſee Cauſe, and if they have freedom thereto.</p>
+            </postscript>
+         </div>
+         <div type="part">
+            <pb n="27" facs="tcp:44447:15"/>
+            <head>
+               <hi>A Certificate,</hi> of ſeveral Principal Inhabitants within the Pariſhes of <hi>Weſt-Dere<g ref="char:EOLhyphen"/>ham,</hi> and of other adjacent Pariſhes, to obviate the falſe Reports given out by the <hi>Quakers</hi> wherewith they endeavour to make the World believe, that the late <hi>Norfolke</hi> Challenge was not made by them to the <hi>Clergy</hi> of the <hi>Church</hi> of <hi>England.</hi>
+            </head>
+            <p>THE Pariſh of <hi>Weſt-Dereham</hi> in <hi>Norfolke,</hi> having in it ſeveral Diviſions and Sectaries, and but an Exceeding ſmall Sallary for a Miniſter, diſcouraged moſt Men from ſupplying the Cure; By reaſon whereof it was ſeldom well Supplyed for any long time together, and the greateſt part of the People in danger of falling to the <hi>Quakers,</hi> who ſeldom fail of making their Markets in ſuch dark Corners; until the preſent Miniſter thereof under<g ref="char:EOLhyphen"/>took it, at the requeſt of ſome Principal Men of the Pariſh, and entred upon that Cure in <hi>June,</hi> 1691. and very laboriouſly, and conſtantly has continued till this preſent time. Againſt whom the <hi>Quakers</hi> have been in a continual rage, for being diſappointed of their Prey. Which diſpleaſure of theirs they could not for<g ref="char:EOLhyphen"/>bear to Expreſs by many undecent Acts, becoming a People of ſuch pernicious Principles and rugged behaviour as they. Such Inſtances whereof as at preſent occur to our minds are theſe.</p>
+            <p>The Wife of one <hi>Becket</hi> a <hi>Quaker,</hi> gave her ſelf the trouble of going three Miles to the Miniſters Houſe, on purpoſe to vex him with <hi>Quakerly Queſtions</hi> in a Quibling way, upon <hi>Aſeenſion</hi> day Morning 1695. His Family can Witneſs the truth of this, as alſo Mrs. <hi>Biſhop,</hi> a Principal Perſon of the Town of <hi>Barton,</hi> who happened to be with the Miniſter then. We of this Pariſh, and divers other Perſons of Neighbouring Pariſhes too, do very well remember the time, that <hi>Becket,</hi> the Husband himſelf, watcht our Miniſter in a Lane (not far from the Church) lin'd on both ſides with People, to Diſpute him; when his Spirits were exhauſted with Preaching, and his Strength weakened, by performing the Duty of the Day.</p>
+            <p>One <hi>Phillips</hi> a <hi>Quaker.</hi> went to diſturb our Miniſter at his own Houſe, one <hi>Munday</hi> in <hi>May</hi> laſt, to Challenge, and Provoke him to Diſpute with the <hi>Quakers,</hi> at a Meeting at <hi>Stoak,</hi> that was to be held on the Morrow, as himſelf confeſſed after he came Home; And he and his Friends ſet abroad the Report ſome days before, to
+<pb n="28" facs="tcp:44447:16"/>
+call the Country together, and then gave it out, that the Prieſts promiſed, but durſt not come<g ref="char:punc">▪</g> both which we believe to be falſe.</p>
+            <p>This <hi>Phillips,</hi> together with one <hi>Maſon</hi> and <hi>Beket,</hi> by ſpeaking Profanely of the Ordinances of Chriſt, and ſetting up a Conven<g ref="char:EOLhyphen"/>ticle contrary to Law, in an unlicenc'd <hi>Barn,</hi> where there never had been one before, and their reſtleſs Importunities to make Men go to their Meetings, and by Villifying our Miniſter (for no other Cauſe but preſerving his Sheep from being devoured by the <hi>Wolves</hi>) gave our Miniſter and us great occaſion to dread an Apoſtacy of the People from the Chriſtian Faith.</p>
+            <p>This, and nothing but this, made us and our Miniſter willing to permit Mr. <hi>Bugg</hi> to come among 'em, to try if he could conjure down this buſy Spirit which poſſeſſes the <hi>Quakers,</hi> and is ſo trou<g ref="char:EOLhyphen"/>bleſom to us, having heard, that he had thrown that unclean and Blaſpheming Legion out of ſome other Places before. We and our Miniſter accompanied him to one <hi>Quakers</hi> Houſe, and ſent one of his Printed Charges in a Letter to <hi>Sam. Cater</hi> a Speaker; Further than which, we believe our Miniſter was not concerned; And it was his great deſire of ſaving Souls, and a quiet life, that made him ingage ſo far: For he was always averſe, that either he or his Brethren ſhould ingage in a Publick Diſpute. He, to our knowledge, was ever ſo far from giving a Challenge, as that he never would accept it when it was offer'd, till now; For many Provocations and Challenges has he had; One above all the reſt we cannot forget, which was given him in Writing when he was in the Pulpit, by one <hi>Lilly,</hi> in ſight of the whole Congregation: Which beſides many more, he evaded as well as he could, till this laſt bold Challenge came on, which was to all the <hi>Clergy</hi> of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> as well as to his Brethren and him. So that whatſoever the <hi>Quakers</hi> may pretend to the contrary, we verily believe, They are the Challengers, and none but they: But we hope it has done much good, and had the Miniſters been permitted to make out their Charge, which was Artificially drowned in Noiſe, <hi>Qua<g ref="char:EOLhyphen"/>keriſm</hi> in theſe Parts, would have received a Mortal Stroke.</p>
+            <p>The truth of all this is Certified by us, whoſe Names are here Subſcribed.</p>
+            <closer>
+               <signed>William Fenn.</signed>
+               <signed>William Young.</signed>
+               <signed>Richard Taylor.</signed>
+               <signed>Geo. Archer.</signed>
+               <signed>John Smith.</signed>
+               <signed>John Wright.</signed>
+               <signed>Tho. Wade.</signed>
+               <signed>Tho. Complin.</signed>
+               <signed>John Goddard.</signed>
+               <signed>Tho. Ward.</signed>
+               <signed>Tho. Hubbard.</signed>
+               <signed>William Prick.</signed>
+               <signed>Caleb Mayor.</signed>
+               <signed>Grace Lamſon.</signed>
+               <signed>Mary Parke.</signed>
+               <signed>Barth. Ramſey.</signed>
+               <signed>Sam. Chicco.</signed>
+               <signed>VVil. Sargiſon.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
